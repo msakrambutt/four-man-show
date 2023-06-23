@@ -1,6 +1,4 @@
 import Hero from './views/Hero';
-import CounterView from '@/Counter';
-import ProductList from './views/ProductList';
 import StripeCheckOutButton from './CheckOut';
 import { client } from '@/lib/sanityClient';
 
